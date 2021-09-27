@@ -13,7 +13,7 @@ $(function () { // Same as document.addEventListener("DOMContentLoaded"...
 
 var dc = {};
 
-var homeHtmlUrl = "..../module5/snippets/home-snippet.html";
+var homeHtmlUrl = "C:/Users/jair_/Desktop/module5/snippets.html";
 var allCategoriesUrl = 
   "https://davids-restaurant.herokuapp.com/categories.json";
 var categoriesTitleHtml = "snippets/categories-title-snippet.html";
